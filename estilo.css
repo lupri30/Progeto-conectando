@@ -1,0 +1,18 @@
+.c1 {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #eb0867;
+    width: 200px;
+    height: 100px;
+
+}
+
+.c2{
+    border: 1px solid #520bf7;
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+    height: 300px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
